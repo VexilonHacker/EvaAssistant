@@ -1,0 +1,58 @@
+Original text: 
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+=======================================
+
+Model: tiny.en
+Time (sec): 0.08
+Similarity: 0.832
+Transcription:
+ Hash-Loram Ipsum is simply dummy-text of the printing and typesetting industry.  Loram Ipsum has been the industry's standard dummy-text ever since the 1500s,  when an unknown printer took a galley of type and scrambled it to make a type specimen book.  It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.  It was popularized in the 1960s, with the release of Lettra-Zet Sheets containing  Lorum Ipsum Passages, and more recently with desktop publishing software like Aldous  page maker, including versions.  Laura Mipsum.
+========================================
+Model: tiny
+Time (sec): 0.07
+Similarity: 0.876
+Transcription:
+ Hash-Lorum Ipsum is simply dummy text of the printing and type-setting industry.  Lorum Ipsum has been the industry's standard dummy text ever since the 1500s, when  an unknown printer took a galley of type and scrambled it to make a type specimen book.  It has survived not only five centuries, but also the leap into electronic type-setting,  remaining essentially unchanged.  It was popularized in the 1960s, with the release of Letraset Sheets, containing  Louram Ipsum passages, and more recently with desktop publishing software like all  this page maker, including versions.  Laura Mipsum.
+========================================
+Model: base.en
+Time (sec): 0.06
+Similarity: 0.888
+Transcription:
+ Hash lorem ipsum is simply dummy text of the printing and type setting industry.  Lorem ipsum has been the industry's standard dummy text ever since the 1500s,  when an unknown printer took a galley of type and scrambled it to make a type specimen book.  It has survived not only five centuries, but also the leap into electronic type setting,  remaining essentially unchanged.  It was popularized in the 1960s, with the release of LetraZet sheets containing  Loram Ipsum passages, and more recently with desktop publishing software like  Aldous PageMaker, including versions.  Loram Ipsum
+========================================
+Model: base
+Time (sec): 0.07
+Similarity: 0.867
+Transcription:
+ Hash-Lorum-Ipsum is simply dummy text of the printing and type-setting industry.  Lorum-Ipsum has been the industry's standard dummy text ever since the 1500s,  when an unknown printer took a galley of type and scrambled it to make a type specimen book.  It has survived not only five centuries, but also the leap into electronic type-setting,  remaining essentially unchanged.  It was popularized in the 1960s with the release of LetraZette Sheets containing  Laura Mipsum passages, and more recently with desktop publishing software like Aldous  PageMaker, including versions.  Laura Mipsum
+========================================
+Model: small.en
+Time (sec): 0.06
+Similarity: 0.762
+Transcription:
+ Hash Lorem Ipsum is simply dummy text of the printing and typesetting industry.  Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an  unknown printer took a galley of type and scrambled it to make a type specimen book.  It has survived not only five centuries, but also the leap into electronic typesetting,  remaining essentially unchanged.  It was popularized in the 1960s with the release of Lettreset sheets containing Lorem Ipsum  passages and more recently with desktop publishing software like Aldus Pagemaker, including versions.  Lorem Ipsum.
+========================================
+Model: small
+Time (sec): 0.07
+Similarity: 0.781
+Transcription:
+ Hash lorem ipsum is simply dummy text of the printing and typesetting industry.  Lorem ipsum has been the industry's standard dummy text ever since the 1500s,  when an unknown printer took a galley of type and scrambled it to make a type specimen book.  It has survived not only five centuries, but also the leap into electronic typesetting,  remaining essentially unchanged.  It was popularized in the 1960s with the release of LetraZet sheets containing  L'Orem Ipsum passages and more recently with desktop publishing software like  Aldous PageMaker, including versions, L'Orem Ipsum.
+========================================
+Model: medium.en
+Time (sec): 0.07
+Similarity: 0.907
+Transcription:
+ Hash lorem ipsum is simply dummy text of the printing and typesetting industry.  Lorem ipsum has been the industry's standard dummy text ever since the 1500s,  when an unknown printer took a galley of type and scrambled it to make a type specimen book.  It has survived not only five centuries, but also the leap into electronic typesetting,  remaining essentially unchanged.  It was popularized in the 1960s with the release of letrisette sheets  containing Lorem Ipsum passages, and more recently with desktop publishing software  like Aldus PageMaker, including versions. Lorem Ipsum.
+========================================
+Model: medium
+Time (sec): 0.07
+Similarity: 0.771
+Transcription:
+ Hash lorem ipsum is simply dummy text of the printing and typesetting industry.  Lorem ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown  printer took a galley of type and scrambled it to make a type specimen book.  It has survived not only five centuries, but also the leap into electronic typesetting,  remaining essentially unchanged.  It was popularized in the 1960s with the release of letrasette sheets containing Lorem ipsum  passages and more recently with desktop publishing software like Aldus PageMaker, including versions.  Lorem ipsum
+========================================
+Model: turbo
+Time (sec): 0.08
+Similarity: 0.933
+Transcription:
+ Hash lorem ipsum is simply dummy text of the printing and typesetting industry.  Lorem ipsum has been the industry's standard dummy text ever since the 1500s,  when an unknown printer took a galley of type and scrambled it to make a type specimen book.  It has survived not only five centuries, but also the leap into electronic typesetting,  remaining essentially unchanged. It was popularized in the 1960s with the release  of Letrizette sheets containing lorem ipsum passages, and more recently with desktop publishing  software like Aldis PageMaker, including versions.  Lorem ipsum.
+========================================
